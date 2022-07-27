@@ -1,0 +1,21 @@
+ol
+{
+    text-decoration: solid;
+    color: rgb(197, 15, 148);
+}
+a
+{
+    color: rgb(226, 66, 17);
+    background-color: yellow;
+    text-decoration: solid;
+}
+dl
+{
+    color: rgb(156, 25, 141);
+    letter-spacing: 4px;
+}
+p
+{
+    text-decoration: solid;
+    color: rgb(168, 19, 148);
+}
